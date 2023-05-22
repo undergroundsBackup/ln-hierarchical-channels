@@ -9,4 +9,5 @@ watchtower-free manner without stranding any
 Lightning channel capacity.
 
 See hierarchicalchannels12.pdf
+John
 
